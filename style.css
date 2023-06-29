@@ -1,0 +1,41 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 27px;
+width: 100%;
+margin: 0px;
+color:  black;
+font-family: monospace;
+}
+
+.image {
+    font-size: 30px;
+    background: white;
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 50px;
+    color: blue;
+    font-family: cursive;
+}
+
+.back{
+    font-size: 27px;
+    float: right;
+}
+
+canvas{
+    border: 2px blue dashed;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 20px;
+    margin-top: 130px;
+    
+}
+
+
+
+
+
